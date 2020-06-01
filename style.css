@@ -1,5 +1,8 @@
 h1.title { color:red; text-align:center; }
+.center { text-align:center; }
 p { font-size:22px; }
 h2 { color:purple; }
 li { font-size:22px; }
 #largeimage { width:100%; }
+.activeTab { background-color:purple; color:white}
+.inactiveTab { color:grey; }
